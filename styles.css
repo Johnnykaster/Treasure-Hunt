@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLp5q3_LsKZm3RPlbvsph0y9ktAwF7Rx8ccDPuBk7oLg1H1sqeng");
+}
+.clues {
+    background-color: white;
+     margin-left: 400px;
+    margin-right: 400px;
+}
+.header {
+    background-image: url("https://media.giphy.com/media/107jaWUrqHcvIc/giphy.gif");
+     margin-left: 400px;
+    margin-right: 400px;
+    color: white;
+}
+.clues {
+    display: none;
+    font-size: 20px;
+}
+.car {
+    display: none;
+}
+.cell {
+}    
+.tunnel {
+    display: none;
+    height: 200px;
+    float: left;
+    margin-top: 300px;
+}
+.spoon {
+    display: none;
+    height: 100px;
+}
+.dig {
+    display: none;
+    float: left;
+    Height: 150px;
+}
+.win {
+    background-image: url("https://media.giphy.com/media/107jaWUrqHcvIc/giphy.gif");
+    color: white;
+    display: none;
+    float: bottom;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
